@@ -2,7 +2,6 @@
 
 ![logo](https://github.com/Peyman2012/Number-guessing-game-by-computer/assets/88220773/c7e44beb-9c49-4f3e-bf95-671453cbe578)
 
-Number guessing game by computer
 
 This program is written using the Random library:
 
